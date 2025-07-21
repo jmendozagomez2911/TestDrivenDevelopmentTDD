@@ -1,7 +1,0 @@
-package io.github.josemanuel;
-
-public class Main {
-    public static void main(String[] args) {
-        System.out.println("TDD new commit");
-    }
-}
